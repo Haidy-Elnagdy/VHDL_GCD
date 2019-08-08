@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Jul 28 14:34:54 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : GCD
+Top-level Entity Name : GCD
+Family : Cyclone IV E
+Total logic elements : 50
+    Total combinational functions : 41
+    Dedicated logic registers : 35
+Total registers : 35
+Total pins : 27
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
